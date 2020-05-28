@@ -1,0 +1,1 @@
+=(new file_read_text()).loadData("npd_attr")
