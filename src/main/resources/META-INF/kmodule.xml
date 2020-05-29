@@ -2,7 +2,4 @@
   <kbase name="test_kiebase" default="true" eventProcessingMode="cloud" equalsBehavior="identity" packages="com.foo_cns_mon.test_defaults" includes="test_kiebase">
     <ksession name="test_kiesession" type="stateless" default="true" clockType="realtime"/>
   </kbase>
-  <configuration>
-    <property key="drools.dialect.mvel.strict" value="false" />
-  </configuration>
 </kmodule>
