@@ -11,7 +11,7 @@
     <globals/>
     <work-item-handlers/>
     <environment-entries/>
-    <configurations>false</configurations>
+    <configurations/>
     <required-roles/>
     <remoteable-classes/>
     <limit-serialization-classes>true</limit-serialization-classes>
