@@ -11,7 +11,7 @@
     <globals/>
     <work-item-handlers/>
     <environment-entries/>
-    <configurations/>
+    <configurations><property key="drools.dialect.mvel.strict" value="false" /></configurations>
     <required-roles/>
     <remoteable-classes/>
     <limit-serialization-classes>true</limit-serialization-classes>
