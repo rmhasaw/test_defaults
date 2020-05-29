@@ -13,7 +13,7 @@
     <environment-entries/>
     <configurations>
         <configuration>
-            <resolver>spring</resolver>
+            <resolver>mvel</resolver>
             <identifier>false</identifier>
             <parameters/>
             <name>drools.dialect.mvel.strict</name>
