@@ -16,7 +16,7 @@
             <resolver>mvel</resolver>
             <identifier>false</identifier>
             <parameters/>
-            <name>drools.dialect.mvel.strict</name>
+            <name>strict</name>
         </configuration>
     </configurations>
     <required-roles/>
