@@ -119,9 +119,10 @@
           <columnWidth>252.75</columnWidth>
         </FactMapping>
       </factMappings>
+      <dmoSession>test_kiesession</dmoSession>
       <type>RULE</type>
       <skipFromBuild>false</skipFromBuild>
-      <stateless>false</stateless>
+      <stateless>true</stateless>
     </simulationDescriptor>
     <scenarios>
       <Scenario>
