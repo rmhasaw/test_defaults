@@ -1,5 +1,8 @@
 <kmodule xmlns="http://www.drools.org/xsd/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <kbase name="kb11" default="true" eventProcessingMode="cloud" equalsBehavior="identity" packages="com.foo_cns_mon.test_defaults" includes="kb11">
     <ksession name="ksession" type="stateless" default="true" clockType="realtime"/>
+    <configuration>
+    <property key="drools.dialect.mvel.strict" value="false" />
+  </configuration>
   </kbase>
 </kmodule>
