@@ -50,7 +50,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_9</expressionAlias>
-          <columnWidth>252.75</columnWidth>
+          <columnWidth>261.5</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,7 +72,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_64</expressionAlias>
-          <columnWidth>252.75</columnWidth>
+          <columnWidth>261.5</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -94,7 +94,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_65</expressionAlias>
-          <columnWidth>252.75</columnWidth>
+          <columnWidth>261.5</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -116,10 +116,9 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_69</expressionAlias>
-          <columnWidth>252.75</columnWidth>
+          <columnWidth>261.5</columnWidth>
         </FactMapping>
       </factMappings>
-      <dmoSession>test_kiesession</dmoSession>
       <type>RULE</type>
       <skipFromBuild>false</skipFromBuild>
       <stateless>true</stateless>
