@@ -50,7 +50,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_9</expressionAlias>
-          <columnWidth>261.5</columnWidth>
+          <columnWidth>365.75</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,7 +72,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_64</expressionAlias>
-          <columnWidth>261.5</columnWidth>
+          <columnWidth>365.75</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -94,7 +94,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_65</expressionAlias>
-          <columnWidth>261.5</columnWidth>
+          <columnWidth>365.75</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -116,7 +116,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_69</expressionAlias>
-          <columnWidth>261.5</columnWidth>
+          <columnWidth>365.75</columnWidth>
         </FactMapping>
       </factMappings>
       <type>RULE</type>
